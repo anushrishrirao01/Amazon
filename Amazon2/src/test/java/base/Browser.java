@@ -16,6 +16,12 @@ public class Browser {
 
 	public static WebDriver launchChromeBrowser() {
 	
+		
+		
+		
+		
+		
+		
 		ChromeOptions opt = new ChromeOptions();
 		opt.addArguments("--disable-Notifications");
 		
