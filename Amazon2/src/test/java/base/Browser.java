@@ -20,10 +20,7 @@ public class Browser {
 		
 		
 		
-		
-		
-		
-		
+
 		ChromeOptions opt = new ChromeOptions();
 		opt.addArguments("--disable-Notifications");
 		
